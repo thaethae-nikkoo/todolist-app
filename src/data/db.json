@@ -1,0 +1,29 @@
+{
+    "todolists": [
+        {
+            "id": 1,
+            "name": "Record web dev foundation class",
+            "complete": false
+        },
+        {
+            "id": 2,
+            "name": "Take medicine",
+            "complete": true
+        },
+        {
+            "id": 3,
+            "name": "Drink water",
+            "complete": true
+        },
+        {
+            "id": 4,
+            "name": "Learning React lessons",
+            "complete": false
+        },
+        {
+            "id": 5,
+            "name": "Sleep",
+            "complete": false
+        }
+    ]
+}
